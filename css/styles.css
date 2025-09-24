@@ -1,0 +1,153 @@
+/* #region logo*/
+.logo{
+    font-size: 18px;
+    line-height: 21px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #4D5AE5;
+    text-decoration: none;
+
+}
+
+.logo-dark{
+    color: #2E2F42;
+}
+
+.logo-light{
+    color: #F4F4FD;
+}
+
+/* #endregion */
+
+ul{
+    list-style-type: none;
+}
+
+/* #region header*/
+.nav a{
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    color: #2E2F42;
+}
+
+.contacts a{
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    color: #2E2F42;
+}
+/* #endregion */
+
+/* #region hero section*/
+.hero{
+    background-color: #2E2F42;
+}
+
+.hero-title{
+    font-size: 56px;
+    line-height: 60px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+.hero-btn{
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    color: white;
+    background-color: #4D5AE5;
+}
+/* #endregion */
+
+/* #region dev-strategy*/
+.dev-strategy h3{
+    font-size: 20px;
+    line-height: 24px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    color: #2E2F42;
+}
+
+.dev-strategy p{
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color: #434455;
+}
+/* #endregion */
+
+/* #region our team*/
+.team h2{
+    font-size: 36px;
+    line-height: 40px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    color: #2E2F42;
+}
+
+.team h3{
+    font-size: 20px;
+    line-height: 24px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    color: #2E2F42;
+}
+
+.team p{
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color: #434455;
+}
+/* #endregion */
+
+/* #region portfolio*/
+.portfolio h2{
+    font-size: 36px;
+    line-height: 40px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    color: #2E2F42;
+}
+
+.portfolio h3 {
+    font-size: 20px;
+    line-height: 24px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    color: #2E2F42;
+}
+
+.portfolio p {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color: #434455;
+}
+/* #endregion */
+
+/* #region footer*/
+.footer{
+    background-color: #2E2F42;
+}
+
+.footer p{
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color: #F4F4FD;
+}
+/* #endregion */
